@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Süleyman Yılmaz</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleyman-yilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="suleyman-yilmaz" /> </p>
 
 - 📫 How to reach me **suleymanymz50@gmail.com**
 
